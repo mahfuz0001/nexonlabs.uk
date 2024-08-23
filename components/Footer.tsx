@@ -36,7 +36,7 @@ const Footer = () => {
       <div className="flex mt-28 md:flex-row flex-col justify-between items-center">
         <p className="md:text-base text-sm md:font-normal font-light">
           Nexon Labs LTD, Registered in England and Wales at 20 Wenlock Road,
-          Covent Garden, London, N1 7GU. Registered No: 15905623
+          London, N1 7GU. Registered No: 15905623
         </p>
 
         <div className="flex items-center md:gap-3 gap-6">
